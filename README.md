@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minnieshay
 - 👀 I’m interested in making apps, games, and websites
-- 🌱 I’m currently learning HTML, C#, Python, and Java
+- 🌱 I’m currently learning HTML, CSS, C#, Python, and Java
 - 💞️ I’m looking to collaborate on websites, game development, and app development
 - 📫 How to reach me TBD
 
